@@ -89,6 +89,12 @@ python -m streamlit run app.py
 ```
 4. Open the provided local URL in your browser
 
+------------------------------------------------------------------------
+
+## Author
+
+Jorge
+
 ## Summary
 
 This project demonstrates how raw motorsport data can be transformed into an interactive analytical tool. By combining data processing with intuitive visualizations, the dashboard enables quick exploration of driver performance and race dynamics.
