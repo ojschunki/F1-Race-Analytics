@@ -76,7 +76,7 @@ Built an interactive dashboard using :contentReference[oaicite:1]{index=1} with:
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-link>
+git clone <https://github.com/ojschunki/F1-Race-Analytics>
 cd F1-Driver-Dashboard
 ```
 2. Install dependencies:
